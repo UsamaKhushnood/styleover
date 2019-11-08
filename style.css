@@ -1,0 +1,17 @@
+h1, p {
+  font-family: Lato;
+}
+
+body {
+  background-color: #f6f6f6;
+}
+
+.mainLogo{
+  background-image: url(https://cdn1.imggmi.com/uploads/2019/11/8/42732f06e2a5d260b2a8dbce3c7078f9-full.png);
+  background-size: 600px auto;
+  min-height: 200px;
+  background-repeat: no-repeat;
+  margin: 40px; 
+  background-position: center;
+}
+
