@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { render } from 'react-dom';
 import Hello from './Hello';
 import './style.css';
+import Home from './components/Home'
 
 class App extends Component {
   constructor() {
@@ -14,7 +15,7 @@ class App extends Component {
   render() {
     return (
       <div className="mainContainer" role="section">
-        <div className="mainLogo" id="logo"></div>
+        <Home />
       </div>
     );
   }
