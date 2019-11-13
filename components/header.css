@@ -51,6 +51,10 @@
     font-weight: 900;
 }
 
+.homeGridItems h1 {
+  font-family: roboto
+}
+
 .homeGridItems p {
     line-height: 2;
     font-family: roboto;
